@@ -1,0 +1,6 @@
+echo "# liliana" >> README.md 
+git init 
+git add README.md 
+git commit -m "first commit" 
+git remote add origin https://github.com/liliana-29/liliana.git
+ git push -u maestro de origen
